@@ -22,3 +22,12 @@ tired = true
 caffeinated = true
 mac_user = false
 
+# New String Variables
+
+name = "Nicholas McEnroe"
+current_state = "Central Michigan"
+footwear = "flip flops"
+
+puts name
+puts current_state
+puts footwear
