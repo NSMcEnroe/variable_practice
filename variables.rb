@@ -16,3 +16,9 @@ bank_account = "0.01"
 eye_prescription = "0.5"
 current_rent = "1770.00"
 
+# Boolean Variables
+
+tired = true
+caffeinated = true
+mac_user = false
+
